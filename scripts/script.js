@@ -1,9 +1,9 @@
 const cards = [
-  { img: 'imgs/image 8.png', title: 'Peperomia Ginny', price: '$25' },
-  { img: 'imgs/image 9.png', title: 'Bird\'s Nest Fern', price: '$45' },
-  { img: 'imgs/image 10.png', title: 'Large Majesty Palm', price: '$52' },
-  { img: 'imgs/image 11.png', title: 'Pet Friendly Plant', price: '$30' },
-  { img: 'imgs/images (1).jpg', title: 'Snake Plant', price: '$40' },
+  { img: 'imgs/image-8.png', title: 'Peperomia Ginny', price: '$25' },
+  { img: 'imgs/image-9.png', title: 'Bird\'s Nest Fern', price: '$45' },
+  { img: 'imgs/image-10.png', title: 'Large Majesty Palm', price: '$52' },
+  { img: 'imgs/image-11.png', title: 'Pet Friendly Plant', price: '$30' },
+  { img: 'imgs/images-(1).jpg', title: 'Snake Plant', price: '$40' },
   { img: 'imgs/robust-zz-plant-indoor.webp', title: 'ZZ Plant', price: '$35' },
   { img: 'imgs/A_happy_Aloe_Vera_houseplant_in_a_vibrant_curved_pot..webp', title: 'Aloe Vera', price: '$20' },
   { img: 'imgs/the-sill_Medium-Monstera-Deliciosa_Medium_Isabella_Stone_Variant_b68d0a34-b068-4105-a15c-7d1b22ba6b29.webp', title: 'Monstera', price: '$55' }
